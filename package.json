@@ -1,0 +1,26 @@
+{
+  "name": "sphere-searcher",
+  "version": "1.0.0",
+  "description": "Implements a searching algorithm to minimize an objective function on a spherical surface",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovanirubim/npm-sphere-searcher.git"
+  },
+  "keywords": [
+    "Spherical",
+    "Search",
+    "Latitude",
+    "Longitude"
+  ],
+  "author": "Giovani <giovanirubim.f@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giovanirubim/npm-sphere-searcher/issues"
+  },
+  "homepage": "https://github.com/giovanirubim/npm-sphere-searcher#readme"
+}
